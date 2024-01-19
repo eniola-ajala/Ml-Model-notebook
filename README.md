@@ -1,1 +1,1 @@
-## Supervised Machine Learning Note
+## Supervised Machine Learning Notebook
