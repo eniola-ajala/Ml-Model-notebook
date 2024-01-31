@@ -1,2 +1,2 @@
 ## Supervised Machine Learning Notebook
-Learning Mod
+Learning Model
